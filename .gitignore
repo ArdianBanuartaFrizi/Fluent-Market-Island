@@ -1,0 +1,20 @@
+# Build outputs
+*.dll
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local test artifacts
+*.log
+*.tmp
